@@ -60,7 +60,7 @@ Aplikasi **Perpustakaan Digital** berbasis **Laravel** yang memungkinkan admin m
    ```bash
    git clone https://github.com/namauser/perpustakaan-digital.git
    cd perpustakaan-digital
-````
+    ```
 
 2. **Install dependency**
 
@@ -165,13 +165,3 @@ Silakan fork repository ini dan kirim PR.
 
 Proyek ini menggunakan lisensi **MIT** – silakan gunakan secara bebas untuk pembelajaran, modifikasi, atau pengembangan lebih lanjut.
 
----
-
-> Dibuat dengan ❤️ oleh ZU - \[LinkedIn kamu di sini]
-
-```
-
----
-
-Kalau kamu juga mau README ini dalam versi yang auto-generated pakai script markdown CLI atau menambahkan badge GitHub (build status, license, dsb), tinggal bilang aja ya!
-```
